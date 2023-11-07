@@ -8,23 +8,6 @@
     <h1>>Biggner Guide to Create Docker Image</h1>
     <p>Brief description of your project.</p>
     <h2>Table of Contents</h2>
-    <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#getting-started">Getting Started</a></li>
-            <ul>
-                <li><a href="#installation">Installation</a></li>
-            </ul>
-        <li><a href="#usage">Usage</a></li>
-        <li><a href="#docker-commands">Docker Commands</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#license">License</a></li>
-    </ul>
-    <h2 id="prerequisites">Prerequisites</h2>
-    <p>List any prerequisites that users need to have installed before they can use your project. This might include software, dependencies, or other setup requirements.</p>
-    <h2 id="getting-started">Getting Started</h2>
-    <p>Provide instructions on how to get your project up and running.</p>
-    <h3 id="installation">Installation</h3>
-    <ol>
         <li>Clone this repository.</li>
         <pre><code>git clone https://github.com/yourusername/yourproject.git</code></pre>
         <li>Change to the project directory.</li>
