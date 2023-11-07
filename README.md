@@ -44,10 +44,6 @@
     <p>Replace <code>project-name</code> and <code>tag</code> with the same values used during image building. This example assumes your application listens on port 80 inside the container.</p>
     <p>Access the Application</p>
     <p>Once the Docker container is running, you can access your application in a web browser by navigating to <a href="http://localhost:8080">http://localhost:8080</a> or the appropriate URL.</p>
-    <h2 id="contributing">Contributing</h2>
-    <p>Explain how others can contribute to your project, whether it's through bug reporting, feature requests, or code contributions.</p>
-    <h2 id="license">License</h2>
-    <p>This project is licensed under the <a href="LICENSE">License Name</a> - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 </body>
 </html>
 
