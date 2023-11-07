@@ -2,10 +2,10 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Project Name</title>
+    <title>Biggner Guide to Create Docker Image</title>
 </head>
 <body>
-    <h1>Project Name</h1>
+    <h1>>Biggner Guide to Create Docker Image</h1>
     <p>Brief description of your project.</p>
     <h2>Table of Contents</h2>
     <ul>
