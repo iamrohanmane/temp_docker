@@ -11,7 +11,7 @@
         <li>Clone this repository.</li>
         <pre><code>git clone https://github.com/iamrohanmane/temp_docker.git</code></pre>
         <li>Change to the project directory.</li>
-        <pre><code>cd yourproject</code></pre>
+        <pre><code>cd temp_docker</code></pre>
     </ol>
     <h2 id="usage">Usage</h2>
     <p>Explain how to use your project, including any configuration options, settings, or command-line arguments. Provide examples and use cases.</p>
