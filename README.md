@@ -9,7 +9,7 @@
     <p>Brief description of your project.</p>
     <h2>Table of Contents</h2>
         <li>Clone this repository.</li>
-        <pre><code>git clone https://github.com/yourusername/yourproject.git</code></pre>
+        <pre><code>git clone https://github.com/iamrohanmane/temp_docker.git</code></pre>
         <li>Change to the project directory.</li>
         <pre><code>cd yourproject</code></pre>
     </ol>
